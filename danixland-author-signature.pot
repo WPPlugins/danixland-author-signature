@@ -1,0 +1,106 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: danixland-author-signature\n"
+"POT-Creation-Date: 2016-03-22 15:47+0100\n"
+"PO-Revision-Date: 2016-03-22 09:35+0100\n"
+"Last-Translator: danix <danix@danixland.net>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: danixland-author-signature.php:33
+msgid "Select your signature"
+msgstr ""
+
+#: danixland-author-signature.php:34
+msgid "Use Image"
+msgstr ""
+
+#: danixland-author-signature.php:60
+msgid "Profile signature"
+msgstr ""
+
+#: danixland-author-signature.php:62
+msgid ""
+"if you don't select a signature image nothing will be displayed in the "
+"content of your posts or pages."
+msgstr ""
+
+#: danixland-author-signature.php:67
+msgid "add your signature image"
+msgstr ""
+
+#: danixland-author-signature.php:73
+msgid "Select Signature"
+msgstr ""
+
+#: danixland-author-signature.php:75
+msgid "Remove Signature"
+msgstr ""
+
+#: danixland-author-signature.php:76
+msgid "Select and preview your signature image."
+msgstr ""
+
+#: inc/dnxasi-settings.php:26
+msgid "Global Signature positioning and sizing"
+msgstr ""
+
+#: inc/dnxasi-settings.php:33
+msgid "Signature alignment?"
+msgstr ""
+
+#: inc/dnxasi-settings.php:41
+msgid "signature width?"
+msgstr ""
+
+#: inc/dnxasi-settings.php:58
+msgid "left"
+msgstr ""
+
+#: inc/dnxasi-settings.php:65
+msgid "center"
+msgstr ""
+
+#: inc/dnxasi-settings.php:72
+msgid "right <small>(default)</small>"
+msgstr ""
+
+#: inc/dnxasi-settings.php:83
+msgid "pixels"
+msgstr ""
+
+#: inc/dnxasi-settings.php:85
+msgid ""
+"set the width in pixels for your signature image and it will be scaled "
+"accordingly. If you leave this field empty the default width of "
+"<strong>300px</strong> will be used."
+msgstr ""
+
+#: inc/dnxasi-settings.php:91
+msgid ""
+"Choose how you want to position and scale the signature at the bottom of the "
+"article."
+msgstr ""
+
+#: inc/dnxasi-settings.php:99
+msgid "danixland Author Signature Settings"
+msgstr ""
+
+#: inc/dnxasi-settings.php:102
+#, php-format
+msgid ""
+"To upload your signature image go to your <a href=\"%1$s\">profile page</a>, "
+"here on this page you can set up the general look of the signature trough "
+"the website."
+msgstr ""

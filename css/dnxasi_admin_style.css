@@ -1,0 +1,29 @@
+.dnxasi_label {
+    display: block;
+    float: left;
+    margin: 0 30px 20px 2px;
+    position: relative;
+}
+.dnxasi_label input[type=radio] {
+    margin-top: -4px;
+    margin-right: 4px;
+    float: none;
+}
+.dnxasi_label span {
+    display: block;
+    width: 136px;
+    padding: 0 2px;
+}
+.dnxasi_label:nth-of-type(2n) span {
+    text-align: center;
+}
+.dnxasi_label:nth-of-type(3n) span {
+    text-align: right;
+}
+.dnxasi_label span img {
+    margin-bottom: -2px;
+}
+.dnxasi_label span small {
+    font-style: italic;
+    font-size: 75%;
+}
